@@ -1,4 +1,3 @@
-Here is the English translation of the document content, with all links and citations removed as requested, ready for copying:
 
 ***
 
@@ -94,3 +93,4 @@ The functions of this software include:
 
 
 ***
+
